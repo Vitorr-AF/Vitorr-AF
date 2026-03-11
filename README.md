@@ -16,7 +16,7 @@ Meu nome é Vitor e eu estudo Engenharia de Software, faço projetos da faculdad
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Vitorr-AF?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Vitorr-AF?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&hide=jupyter%20notebook"
         />
     </a>
 </p>
