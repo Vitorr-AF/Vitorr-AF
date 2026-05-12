@@ -22,8 +22,7 @@ Meu nome é Vitor e eu estudo Engenharia de Software, faço projetos da faculdad
 </p>
 
 ---
-
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -142,7 +141,17 @@ Meu nome é Vitor e eu estudo Engenharia de Software, faço projetos da faculdad
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
+### Certificados
+<div align="center">
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=470315&theme=dark" width="100" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=dark" width="100" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=374692&theme=dark" width="100" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=793412&theme=dark" width="100" />
+</div>
+---
+
+### Estatísticas (nem sempre aparece)
 
 <p>
   <img 
