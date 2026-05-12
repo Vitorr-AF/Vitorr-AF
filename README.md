@@ -143,7 +143,7 @@ Meu nome é Vitor e eu estudo Engenharia de Software, faço projetos da faculdad
 
 ---
 ### Certificados
-<div align="center">
+<div align="left">
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=470315&theme=dark" width="100" />
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=dark" width="100" />
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=374692&theme=dark" width="100" />
